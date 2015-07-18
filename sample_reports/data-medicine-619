@@ -1,0 +1,9 @@
+Assignments for July 2015     (as of Jul 18 10:36 2015 eastern time)
+
+Field  1    : Division (in quotes)
+Field  2 - 4: Staff name, unique ID, backup ID
+Field  5 - 7: Assignment name (in quotes), unique ID, backup ID
+Field  8 - 9: Date and time of assignment (GMTO=-5 1)
+
+"IM Residents","Johnson, John",806,21,"ACE 1 Resident 12a-11a Post Call",187,128,7-1-15,0000,1100
+"IM Residents","Jones, Jerry",775,120,"ACE 2 Resident 8:30a-12a Long (Adm 12p-12a)",190,134,7-1-15,0830,0000

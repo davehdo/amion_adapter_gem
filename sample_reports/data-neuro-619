@@ -1,0 +1,8 @@
+Assignments for July 2015     (as of Jul 18 10:36 2015 eastern time)
+
+Field  1 - 3: Staff name, unique ID, backup ID
+Field  4 - 6: Assignment name (in quotes), unique ID, backup ID
+Field  7 - 8: Date and time of assignment (GMTO=-5 1)
+
+"Johnson",37,33,"Ward SAR",75,189,7-1-15,1800,0600
+"Jones",30,26,"Amb SAR",82,190,7-1-15,1800,0600

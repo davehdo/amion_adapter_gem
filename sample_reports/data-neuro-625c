@@ -1,0 +1,10 @@
+Assignments for July 2015     (as of Jul 18 10:36 2015 eastern time)
+
+Field  1 - 3: Staff name, unique ID, backup ID
+Field  4 - 6: Assignment name (in quotes), unique ID, backup ID
+Field  7 - 8: Date and time of assignment (GMTO=-5 1)
+Field  9 -14: Staff type, Pager, Tel, Email, Messagable, Shift note
+Field 15 -16: Assignment type (o=oncall, v=away, c=clinic, r=rotation, m=meeting, -=other), Grouping
+
+"Johnson",28,24,"NICU",117,28,7-1-15,0700,0700,"SSAR","215-123-1234","","",0,"",r,"NICU"
+"Jones",29,25,"Consult",50,11,7-1-15,0700,0700,"SSAR","215-123-1234","","",0,"",r,"Consult"

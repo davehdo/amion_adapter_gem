@@ -1,0 +1,11 @@
+Assignments for July 2015     (as of Jul 18 10:36 2015 eastern time)
+
+Field  1    : Division (in quotes)
+Field  2 - 4: Staff name, unique ID, backup ID
+Field  5 - 7: Assignment name (in quotes), unique ID, backup ID
+Field  8 - 9: Date and time of assignment (GMTO=-5 1)
+Field  10 -15: Staff type, Pager, Tel, Email, Messagable, Shift note
+Field 16 -17: Assignment type (o=oncall, v=away, c=clinic, r=rotation, m=meeting, -=other), Grouping
+
+"IM Residents","Johnson, John",1428,151,"MICU",34,20,7-1-15,0700,0700,"Intern (Cat)","2671234567","","",1,"",r,"MICU"
+"IM Residents","Jones, Jerry",1415,138,"GI",23,21,7-1-15,0700,0700,"Intern (Cat)","2671234567","","",1,"",r,"GI"
