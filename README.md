@@ -22,11 +22,13 @@ Currently reports are difficult to parse because the API:
 
 # Report types
 ```
-625c        all shifts
-619         call schedule
-2           person_ids
-34          role_ids        0-3           2
+Report code		Contains		nHeaderRows		nColumns
+625c       		all shifts		8-9				16-17
+619         	call schedule	6-7				9-11
+2           	person_ids		0-3				4
+34          	role_ids        0-3           	2
 ```
+See sample reports in sample_reports directory
 
 ## Installation
 
